@@ -4,8 +4,8 @@ namespace App\Services;
 
 class PaymentService
 {
-    const   PROFILE_ID = 108266,
-        SERVER_KEY = 'SRJN6ZWZ2G-JGKTZBJJWW-JLL66Z2ML6',
+    const   PROFILE_ID = 115562,
+        SERVER_KEY = 'SDJNJKZDKK-J6BLMZZLWH-RMDNWGGZNB',
         BASE_URL = 'https://secure-egypt.paytabs.com';
 
     public function prepareContent()
